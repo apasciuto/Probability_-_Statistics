@@ -1,18 +1,3 @@
----
-layout: post
-title:  "Probability and Statistics: Jeopardy"
-cover: "/assets/media/jeopardy/jeopardy.png"
-permalink: /:categories/:year/:month/:day/Probability-and-Statistics
-excerpt_separator: <!--end-->
-categories: projects
-date: 2017-09-14
----
-
-Analyzing text and exploring strategies to gain a competitive edge.
-
-<!--end-->
-
-
 # Jeopardy: Probability and Statistics
 
 **Analyzing text and exploring strategies to gain a competitive edge.**  
